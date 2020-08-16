@@ -1,2 +1,6 @@
 qqqqqqqq
-this is git rebase -i HEAD^^
+this is git rebase -i HEAD^
+
+this is agoehqiohgaohga wrong^
+
+this is amended txt
