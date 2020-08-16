@@ -1,0 +1,2 @@
+qqqqqqqq
+this is git rebase -i HEAD^^
